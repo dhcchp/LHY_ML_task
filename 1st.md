@@ -1,5 +1,5 @@
-# The two different ways to insert figures inside the text.
-# ![image](https://github.com/dhcchp/LHY_ML_task/blob/master/figs/theeagles2017_myriam-santos_sm.jpg)
+// # The two different ways to insert figures inside the text.
+// # ![image](https://github.com/dhcchp/LHY_ML_task/blob/master/figs/theeagles2017_myriam-santos_sm.jpg)
 # <img align="center" src="figs/theeagles2017_myriam-santos_sm.jpg" width="450" alt="sota">
 
 1. 了解什么是Machine learning
