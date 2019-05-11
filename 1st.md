@@ -11,7 +11,7 @@
 
 
 2.3 了解全局最优和局部最优
-
+![image]<https://github.com/dhcchp/LHY_ML_task/blob/master/figs/theeagles2017_myriam-santos_sm.jpg>
 
 3. 学习导数，泰勒展开
 
