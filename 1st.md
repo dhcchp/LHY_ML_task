@@ -4,7 +4,7 @@
 2. 学习中心极限定理，学习正态分布，学习最大似然估计
 2.1 推导回归Loss function
 
-<img align="center" src="resource/sota.png" width="250" alt="sota">
+<img align="center" src="figs/theeagles2017_myriam-santos_sm.jpg" width="250" alt="sota">
 
 2.2 学习损失函数与凸函数之间的关系
 
