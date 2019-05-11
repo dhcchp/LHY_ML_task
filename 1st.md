@@ -1,3 +1,7 @@
+# The two different ways to insert figures inside the text.
+# ![image](https://github.com/dhcchp/LHY_ML_task/blob/master/figs/theeagles2017_myriam-santos_sm.jpg)
+# <img align="center" src="figs/theeagles2017_myriam-santos_sm.jpg" width="450" alt="sota">
+
 1. 了解什么是Machine learning
 
 
@@ -5,13 +9,13 @@
 
 2.1 推导回归Loss function
 
-<img align="center" src="figs/theeagles2017_myriam-santos_sm.jpg" width="450" alt="sota">
+
 
 2.2 学习损失函数与凸函数之间的关系
 
 
 2.3 了解全局最优和局部最优
-![image](https://github.com/dhcchp/LHY_ML_task/blob/master/figs/theeagles2017_myriam-santos_sm.jpg)
+
 
 3. 学习导数，泰勒展开
 
