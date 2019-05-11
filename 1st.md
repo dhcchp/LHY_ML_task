@@ -1,18 +1,10 @@
 1. 了解什么是Machine learning
-test
-Here is a video demo. Excited!
 
-[![微信跳一跳](https://img.youtube.com/vi/OeTI2Kx8Ehc/0.jpg)](https://youtu.be/OeTI2Kx8Ehc "自动玩微信小游戏跳一跳")
 
 2. 学习中心极限定理，学习正态分布，学习最大似然估计
 2.1 推导回归Loss function
-<div align="center">
-<img align="center" src="resource/state_859.png" width="250" alt="state_859">
-<img align="center" src="resource/state_859_res.png" width="250" alt="state_859">
+
 <img align="center" src="resource/sota.png" width="250" alt="sota">
-</div>
-<br/>
-![image](https://github.com/你的github账号名称/你的图片仓库的名称/blob/master/要传入的图片的名称.png?raw=true)
 
 2.2 学习损失函数与凸函数之间的关系
 
