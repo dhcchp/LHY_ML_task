@@ -2,6 +2,7 @@
 
 
 2. 学习中心极限定理，学习正态分布，学习最大似然估计
+
 2.1 推导回归Loss function
 
 <img align="center" src="figs/theeagles2017_myriam-santos_sm.jpg" width="250" alt="sota">
@@ -13,6 +14,7 @@
 
 
 3. 学习导数，泰勒展开
+
 3.1 推导梯度下降公式
 
 
@@ -20,6 +22,7 @@
 
 
 4. 学习L2-Norm，L1-Norm，L0-Norm
+
 4.1 推导正则化公式
 
 
